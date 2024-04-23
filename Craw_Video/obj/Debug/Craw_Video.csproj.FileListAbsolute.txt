@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\Craw_Video\Craw_Video\bin\Debug\Craw_Video.exe.config
+C:\Users\Admin\source\repos\Craw_Video\Craw_Video\bin\Debug\Craw_Video.exe
+C:\Users\Admin\source\repos\Craw_Video\Craw_Video\bin\Debug\Craw_Video.pdb
+C:\Users\Admin\source\repos\Craw_Video\Craw_Video\bin\Debug\ChilkatDotNet45.dll
+C:\Users\Admin\source\repos\Craw_Video\Craw_Video\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\source\repos\Craw_Video\Craw_Video\bin\Debug\xNet.dll
+C:\Users\Admin\source\repos\Craw_Video\Craw_Video\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\source\repos\Craw_Video\Craw_Video\obj\Debug\Craw_Video.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Craw_Video\Craw_Video\obj\Debug\Craw_Video.Form1.resources
+C:\Users\Admin\source\repos\Craw_Video\Craw_Video\obj\Debug\Craw_Video.Properties.Resources.resources
+C:\Users\Admin\source\repos\Craw_Video\Craw_Video\obj\Debug\Craw_Video.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Craw_Video\Craw_Video\obj\Debug\Craw_Video.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Craw_Video\Craw_Video\obj\Debug\Craw_Video.csproj.CopyComplete
+C:\Users\Admin\source\repos\Craw_Video\Craw_Video\obj\Debug\Craw_Video.exe
+C:\Users\Admin\source\repos\Craw_Video\Craw_Video\obj\Debug\Craw_Video.pdb
